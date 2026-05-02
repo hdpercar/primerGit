@@ -1,0 +1,3 @@
+# primerGit
+repositorio inicial
+prueba
